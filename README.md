@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/KrishJain256/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/KrishJain256/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/KrishJain256/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+Caution: I accidentally committed "node_modules" in codespaces, which inflated the LoC.
